@@ -1,11 +1,13 @@
 # Vectores
 
-$\mathbf{x}=\begin{bmatrix}
+$$
+\mathbf{x}=\begin{bmatrix}
 x_1 \\
 x_2 \\
 \vdots  \\
 x_m
-\end{bmatrix}$
+\end{bmatrix}
+$$
 
 $\mathbf{x}= [x_1,x_2, ..., x_m]$
 
